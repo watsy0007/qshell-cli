@@ -8,6 +8,6 @@
     "windows-x86": "qshell_windows_386.exe",
     "windows-x64": "qshell_windows_amd64.exe"
   },
-  "defaultCDN": "http://devtools.qiniu.com/qshell-v2.0.5.zip",
+  "defaultCDN": "http://devtools.qiniu.com/qshell-v2.0.7.zip",
   "md5": "fdd353978e04fe8004d89e69e051abfa"
 }
