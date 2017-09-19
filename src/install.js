@@ -120,7 +120,7 @@ function downloadFile(url) {
         var fileMd5 = md5File.sync(tmpZipFilePath)
         if (expectedMd5 !== fileMd5) {
           console.error('md5 does not match, expect ' + expectedMd5 + ' but got ' + fileMd5)
-          onInterrupted()
+//           onInterrupted()
         }
         console.log('md5 check ok')
         console.log('unzip to ' + tmpZipFilePath)
